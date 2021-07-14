@@ -1,0 +1,14 @@
+on	test_id	format	file_name	flag	comment
+1	av_MakingAnOrder_AnswerArrange	s	test_avito.csv
+1	av_MakingAnOrder_AnswerSeveralVariants	s	test_avito.csv
+1	av_MakingAnOrder_AnswerPickUpPoints	s	test_avito.csv
+0	сделать ProblemsTransfer_AnswerOther		
+0	сделать no notification		
+1	av_MakiningBuyOrProblemOrder_BuyTransfer	s	test_avito.csv
+1	av_MakiningBuyOrProblemOrder_ProblemsTransfer_AnswerReserve	s	test_avito.csv
+1	av_MakiningBuyOrProblemOrder_ProblemsTransfer_AnswerNobutton	s	test_avito.csv
+1	av_MakiningBuyOrProblemOrder_ProblemsTransfer_SaleProblems	s	test_avito.csv
+1	av_ProblemWithMakingOrder_AnswerReserve	s	test_avito.csv
+1	av_ProblemWithMakingOrder_SaleProblems	s	test_avito.csv		доделать
+1	av_MakiningOrCancellationOrder_Cancellation_Buy	s	test_avito.csv		доделать
+1	av_MakiningOrCancellationOrder_Cancellation_Sell	s	test_avito.csv		доделать
